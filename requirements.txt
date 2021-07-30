@@ -1,0 +1,4 @@
+flax==0.3.4
+jax==0.2.18
+streamlit==0.85.1
+transformers==4.9.1
